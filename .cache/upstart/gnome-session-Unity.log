@@ -1,0 +1,105 @@
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2018-01-18 14:03:30 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:30 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:03:31 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2018-01-18 14:10:47 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2018-01-18 14:10:47 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2018-01-18 14:10:47 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+ERROR 2018-01-18 14:33:20 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2018-01-18 14:33:20 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2018-01-18 14:33:20 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(process:4540): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+get_contentWindow@chrome://global/content/bindings/browser.xml:428:54
+get_outerWindowID@chrome://global/content/bindings/browser.xml:412:11
+tabbrowser_XBL_Constructor@chrome://browser/content/tabbrowser.xml:3888:13
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+get_contentWindow@chrome://global/content/bindings/browser.xml:428:54
+get_securityUI@chrome://global/content/bindings/browser.xml:674:17
+browser_XBL_Constructor@chrome://global/content/bindings/browser.xml:798:17
+SelfSupportBackendInternal._makeHiddenBrowser/<@resource:///modules/SelfSupportBackend.jsm:192:7
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+1516304483317	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1516304483856	addons.update-checker	WARN	Update manifest for online-accounts@lists.launchpad.net did not contain an updates property
+1516304483864	addons.update-checker	WARN	Update manifest for {2e1445b0-2682-11e1-bfc2-0800200c9a66} did not contain an updates property
+1516304483872	addons.update-checker	WARN	Update manifest for webapps-team@lists.launchpad.net did not contain an updates property
+1516304484337	addons.manager	WARN	The hotfix add-on was not signed by the expected certificate and so will not be installed.: [Exception... "A required certificate was not present."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 78"  data: no] Stack trace: validateCert()@resource://gre/modules/CertUtils.jsm:78 < BUC_onDownloadEnded()@resource://gre/modules/AddonManager.jsm:1415 < AMI_callInstallListeners()@resource://gre/modules/AddonManager.jsm:1576 < AMP_callInstallListeners()@resource://gre/modules/AddonManager.jsm:2553 < downloadCompleted_getVisibleAddonForID()@resource://gre/modules/addons/XPIProvider.jsm:5661 < makeSafe/<()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:145 < getRepositoryAddon()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:126 < this.XPIDatabase.getAddon/<()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1074 < Handler.prototype.process()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867 < this.PromiseWalker.walkerLoop()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746 < this.PromiseWalker.scheduleWalkerLoop/<()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688 < <file:unknown>
